@@ -1,0 +1,9 @@
+{
+    "name": "Java",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+   
+}
