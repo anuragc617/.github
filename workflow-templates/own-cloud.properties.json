@@ -1,7 +1,7 @@
 {
     "name": "Deploy Node.js to Own Web App",
-    "description": "[Test Partner]Build a Node.js project and deploy it to an Azure Web App.",
+    "description": "[Test Partner]Build a Node.js project and deploy it to an Anurag Web App.",
     "creator": "Anurag Cloud",
-    "iconName": "azure",
+    "iconName": "java",
     "categories": ["Deployment", "JavaScript", "npm"]
 }
